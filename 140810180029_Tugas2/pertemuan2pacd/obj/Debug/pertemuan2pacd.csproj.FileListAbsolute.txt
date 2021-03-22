@@ -1,0 +1,9 @@
+D:\Kuliah\PACD\Digital Image Processing and Analyzing Practice Assignment\pertemuan2pacd\pertemuan2pacd\bin\Debug\pertemuan2pacd.exe.config
+D:\Kuliah\PACD\Digital Image Processing and Analyzing Practice Assignment\pertemuan2pacd\pertemuan2pacd\bin\Debug\pertemuan2pacd.exe
+D:\Kuliah\PACD\Digital Image Processing and Analyzing Practice Assignment\pertemuan2pacd\pertemuan2pacd\bin\Debug\pertemuan2pacd.pdb
+D:\Kuliah\PACD\Digital Image Processing and Analyzing Practice Assignment\pertemuan2pacd\pertemuan2pacd\obj\Debug\pertemuan2pacd.csprojResolveAssemblyReference.cache
+D:\Kuliah\PACD\Digital Image Processing and Analyzing Practice Assignment\pertemuan2pacd\pertemuan2pacd\obj\Debug\pertemuan2pacd.Form1.resources
+D:\Kuliah\PACD\Digital Image Processing and Analyzing Practice Assignment\pertemuan2pacd\pertemuan2pacd\obj\Debug\pertemuan2pacd.Properties.Resources.resources
+D:\Kuliah\PACD\Digital Image Processing and Analyzing Practice Assignment\pertemuan2pacd\pertemuan2pacd\obj\Debug\pertemuan2pacd.csproj.GenerateResource.Cache
+D:\Kuliah\PACD\Digital Image Processing and Analyzing Practice Assignment\pertemuan2pacd\pertemuan2pacd\obj\Debug\pertemuan2pacd.exe
+D:\Kuliah\PACD\Digital Image Processing and Analyzing Practice Assignment\pertemuan2pacd\pertemuan2pacd\obj\Debug\pertemuan2pacd.pdb

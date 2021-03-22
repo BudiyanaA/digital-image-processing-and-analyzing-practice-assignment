@@ -18,3 +18,6 @@ D:\Kuliah\PACD\pertemuan1pacd\pertemuan1pacd\obj\Debug\pertemuan1pacd.csproj.Gen
 D:\Kuliah\PACD\pertemuan1pacd\pertemuan1pacd\obj\Debug\pertemuan1pacd.csproj.CoreCompileInputs.cache
 D:\Kuliah\PACD\pertemuan1pacd\pertemuan1pacd\obj\Debug\pertemuan1pacd.exe
 D:\Kuliah\PACD\pertemuan1pacd\pertemuan1pacd\obj\Debug\pertemuan1pacd.pdb
+D:\Kuliah\PACD\Digital Image Processing and Analyzing Practice Assignment\140810180029_Tugas1\pertemuan1pacd\bin\Debug\pertemuan1pacd.exe.config
+D:\Kuliah\PACD\Digital Image Processing and Analyzing Practice Assignment\140810180029_Tugas1\pertemuan1pacd\obj\Debug\pertemuan1pacd.exe
+D:\Kuliah\PACD\Digital Image Processing and Analyzing Practice Assignment\140810180029_Tugas1\pertemuan1pacd\obj\Debug\pertemuan1pacd.pdb
